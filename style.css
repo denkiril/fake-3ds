@@ -1,0 +1,12 @@
+#root {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+hr {
+  margin: 20px 0;
+}
+
+.control {
+  margin-bottom: 20px;
+}
